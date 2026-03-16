@@ -63,6 +63,6 @@ A JavaScript project for managing and tracking GitHub issues efficiently.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/hrithikmajumader 
 - 📧 Email: (hrithikmajumader@163.com)
   
