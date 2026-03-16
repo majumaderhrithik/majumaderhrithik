@@ -47,15 +47,17 @@
 
 ## 📂 Featured Projects
 
+🔹 **Face Recognition Attendance System**  
+A Python-based system that uses computer vision to automatically detect faces and record attendance.  
+
+🔹 **Stochastic Resonance Simulator**  
+A Python project that simulates stochastic resonance phenomena for signal processing experiments.  
+
 🔹 **Job Application Tracker**  
-A JavaScript project to track job applications and status.
+A JavaScript web application to track job applications and manage application status.  
 
 🔹 **GitHub Issues Tracker**  
-A project to manage GitHub issues efficiently.
-
-🔹 **HTML/CSS Portfolio Website**
-
----
+A JavaScript project for managing and tracking GitHub issues efficiently.
 
 ## 📫 Connect With Me
 
