@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hrithik Majumder</h1>
+<h3 align="center">Computer Science Student | Front-End Developer</h3>
 
-<!--
-**majumaderhrithik/majumaderhrithik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=majumaderhrithik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Interested in Web Development
+- 🌱 Currently learning **JavaScript & React , web development**
+- 🛠 Building web development projects
+- 📍 Khulna, Bangladesh
+
+---
+
+## 🛠 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=majumaderhrithik&theme=tokyonight"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Job Application Tracker**  
+A JavaScript project to track job applications and status.
+
+🔹 **GitHub Issues Tracker**  
+A project to manage GitHub issues efficiently.
+
+🔹 **HTML/CSS Portfolio Website**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: 
+- 📧 Email: (hrithikmajumader@163.com)
+  
