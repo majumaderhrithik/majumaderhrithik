@@ -10,8 +10,8 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in Web Development
-- 🌱 Currently learning **JavaScript & React , web development**
+- 💻 Interested in Web Development,Artificial Intelligence, Machine Learning, Computer Vision, Cybersecurity, Intelligent Software Engineering, Natural Language Processing, and Image Processing.
+- 🌱 Currently learning **JavaScript & React , web development, UI/UX Design Projects**
 - 🛠 Building web development projects
 - 📍 Khulna, Bangladesh
 
