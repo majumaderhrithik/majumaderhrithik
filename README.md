@@ -58,6 +58,7 @@ A JavaScript web application to track job applications and manage application st
 
 🔹 **GitHub Issues Tracker**  
 A JavaScript project for managing and tracking GitHub issues efficiently.
+🔹 **Tic-Tac-Toe-Python-project** 
 
 ## 📫 Connect With Me
 
