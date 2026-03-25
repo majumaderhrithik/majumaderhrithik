@@ -1,68 +1,59 @@
-<h1 align="center">Hi 👋, I'm Hrithik Majumader</h1>
-<h3 align="center">Computer Science Student | Front-End Developer</h3>
+👋 Hi, I'm Hrithik Majumader
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&size=28&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Front-End+Developer;AI+%7C+ML+Enthusiast;Building+Smart+Web+Applications" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=majumaderhrithik&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+🧑‍💻 About Me
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=majumaderhrithik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+🚀 Passionate Computer Science student focused on building impactful and scalable solutions.
+💡 I combine frontend development + AI technologies to create smart applications.
 
----
+🔭 Currently working on React-based web applications
+🌱 Learning Advanced JavaScript, UI/UX, and AI/ML concepts
+🧠 Exploring Computer Vision, NLP & Cybersecurity
+🎯 Goal: Become a Full-Stack Developer with AI specialization
+📍 Khulna, Bangladesh
+⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" /> </p>
+📌 What I'm Working On
+🖥 Building responsive, modern UI with React
+🎨 Improving UI/UX design thinking
+⚡ Practicing Data Structures & Algorithms
+🤖 Learning real-world AI/ML implementations
+🧠 Skills Breakdown
+Category	Skills
+💻 Frontend	HTML, CSS, JavaScript, React
+🧠 Programming	Python
+🔧 Tools	Git, GitHub, VS Code
+📚 Interests	AI, ML, Computer Vision, NLP, Cybersecurity
+🚀 Featured Projects
+🔹 Face Recognition Attendance System
 
-## 🚀 About Me
+📌 Computer vision system that detects faces and automates attendance tracking
+🛠 Tech: Python, OpenCV
 
-- 🎓 Computer Science Student
-- 💻 Interested in Web Development | Artificial Intelligence | Machine Learning | Computer Vision | Cybersecurity | NLP | Image Processing
-- 🌱 Currently learning **JavaScript & React , web development, UI/UX Design Projects**
-- 🛠 Building web development projects and improving problem-solving skills  
-- 📍 Khulna, Bangladesh
+🔹 Stochastic Resonance Simulator
 
----
+📌 Simulation of noise-enhanced signal processing systems
+🛠 Tech: Python
 
-## 🛠 Skills
+🔹 Job Application Tracker
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,vscode" />
-</p>
+📌 Web app to track and manage job applications efficiently
+🛠 Tech: JavaScript
 
----
+🔹 GitHub Issues Tracker
 
-## 📊 GitHub Stats
+📌 Tool for organizing and managing GitHub issues
+🛠 Tech: JavaScript
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight"/>
-</p>
+🔹 Tic-Tac-Toe (Python)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight"/>
-</p>
+📌 Classic game demonstrating logic and problem-solving
+🛠 Tech: Python
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=majumaderhrithik&theme=tokyonight"/>
-</p>
-
----
-
-## 📂 Featured Projects
-
-🔹 **Face Recognition Attendance System**  
-A Python-based system that uses computer vision to automatically detect faces and record attendance.  
-
-🔹 **Stochastic Resonance Simulator**  
-A Python project that simulates stochastic resonance phenomena for signal processing experiments.  
-
-🔹 **Job Application Tracker**  
-A JavaScript web application to track job applications and manage application status.  
-
-🔹 **GitHub Issues Tracker**  
-A JavaScript project for managing and tracking GitHub issues efficiently.
-
-🔹 **Tic-Tac-Toe-Python-project** 
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/hrithikmajumader 
-- 📧 Email: (hrithikmajumader@163.com)
-  
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=majumaderhrithik&theme=tokyonight&hide_border=true" /> </p>
+🐍 Contribution Snake (Premium Touch)
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/hrithikmajumader"> <img src="https://img.shields.io/badge/LinkedIn-hrithikmajumader-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:hrithikmajumader@163.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
