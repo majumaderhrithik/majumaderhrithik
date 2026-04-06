@@ -73,24 +73,26 @@ Classic game built to practice logic and problem-solving.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues&custom_title=Hrithik%27s%20Dev%20Stats&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6&ring_color=0e75b6&rank_icon=github&border_radius=12&card_width=520" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=majumaderhrithik&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.6&count_weight=0.4&custom_title=Most%20Used%20Languages&title_color=0e75b6&text_color=ffffff&hide=HTML,Markdown&card_width=420" height="200" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=majumaderhrithik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=majumaderhrithik&theme=tokyonight&hide_border=true&border_radius=12&fire=0e75b6&ring=0e75b6&currStreakNum=ffffff&sideNums=0e75b6&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌟 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commit,PR,Repositories,Issues,Contribution" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -99,7 +101,6 @@ Classic game built to practice logic and problem-solving.
 <p align="center">
   <img src="https://raw.githubusercontent.com/majumaderhrithik/majumaderhrithik/output/github-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
