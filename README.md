@@ -88,9 +88,6 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 <p align="center">
   <img src="https://raw.githubusercontent.com/majumaderhrithik/majumaderhrithik/output/github-snake.svg" alt="snake animation" />
 </p>
-<p align="center">
-  <em>Tip: The snake graph appears automatically after you set up the Platane/snk GitHub Action (very easy — want step-by-step instructions?)</em>
-</p>
 ---
 ## 🌐 Connect With Me
 <p align="center">
