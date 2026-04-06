@@ -90,7 +90,7 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majumaderhrithik&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=majumaderhrithik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ## 🌟 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/majumaderhrithik/majumaderhrithik/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
