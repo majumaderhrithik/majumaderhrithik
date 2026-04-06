@@ -67,20 +67,20 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=majumaderhrithik&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=majumaderhrithik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 ## 🌟 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=majumaderhrithik&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -88,8 +88,9 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 <p align="center">
   <img src="https://raw.githubusercontent.com/majumaderhrithik/majumaderhrithik/output/github-snake.svg" alt="snake animation" />
 </p>
-> *Tip: The snake graph works automatically if you add the Platane/snk GitHub Action to your profile repository (very easy to set up).*
-
+<p align="center">
+  <em>Tip: The snake graph appears automatically after you set up the Platane/snk GitHub Action (very easy — want step-by-step instructions?)</em>
+</p>
 ---
 ## 🌐 Connect With Me
 <p align="center">
