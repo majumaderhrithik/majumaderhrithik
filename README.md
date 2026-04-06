@@ -81,8 +81,8 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majumaderhrithik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majumaderhrithik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
@@ -106,9 +106,8 @@ A classic Python game project that demonstrates logic-building and problem-solvi
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/majumaderhrithik/majumaderhrithik/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="./profile/github-snake.svg" alt="snake animation" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
